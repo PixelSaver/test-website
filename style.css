@@ -4,6 +4,7 @@ img {
     align-self: center;
 }
 body {
+    font-family: 'Arial';
     background-color: #FF5050;
     color: #000000;
 }
